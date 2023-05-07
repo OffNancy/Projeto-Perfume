@@ -1,0 +1,68 @@
+
+
+body{
+    background-color: beige;
+}
+
+header{
+    display: flex;
+    background-color: white;
+    width: 90vh;
+    margin-left: 20rem;
+    margin-top: 7rem;
+
+
+}
+
+.parte1{
+    margin-top: 3rem;
+    font-weight: bolder;
+}
+
+.parte2{
+    font-size: 1rem;
+    color: rgb(122, 118, 118);
+}
+
+.parte3{
+color: rgb(8, 110, 8);
+font-weight: bolder;
+font-size: 1.5rem;
+
+
+}
+
+.parte4{
+
+    font-size: 12px;
+    position: relative;
+    bottom: 2.8rem;
+    left: 6rem;
+    text-decoration: line-through;
+    color: rgb(122, 118, 118);
+
+    
+}
+.Perfume{
+left: 4.5rem;
+position: relative;
+font-size: 15px;
+font-family: 'Pacifico', cursive;
+color: rgb(122, 118, 118);
+
+}
+.parte5{
+
+    position: relative;
+    left: 42rem;
+    bottom: 8rem;
+    width: 180px;
+    background-color: rgb(5, 103, 5); ;
+    height: 2rem;
+    padding-top: 1rem;
+    text-align: center;
+    border-radius: 9px;
+    color: white;
+
+    
+}
